@@ -1,5 +1,9 @@
 .App {
   text-align: center;
+  /*  this is just edit for black screen view */
+  background-color: black;
+  color:white;
+  height: 100vh;
 }
 
 .App-logo {
